@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "This repository is to practice testing. Activity for Day 2 Block 3 Module 2.",
+  "main": "./index-test.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testing-practice"
+  },
+  "keywords": [
+    "testing-practice"
+  ],
+  "author": "Edgard Soza",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "init": "^0.1.2"
+  }
+}
